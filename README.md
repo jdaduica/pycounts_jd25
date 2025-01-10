@@ -5,9 +5,8 @@ Calculate word counts in a text file!
 ## Installation
 
 ```bash
-pip install --index-url https://test.pypi.org/simple/ \
-  --extra-index-url https://pypi.org/simple \
-  pycounts_jd25```
+$ pip install pycounts_jd25
+```
 
 ## Usage
 
