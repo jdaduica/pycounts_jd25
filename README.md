@@ -1,5 +1,7 @@
 # pycounts_jd25
 
+[![codecov](https://codecov.io/github/jdaduica/pycounts_jd25/graph/badge.svg?token=01X3OJTTOQ)](https://codecov.io/github/jdaduica/pycounts_jd25)
+
 Calculate word counts in a text file!
 
 Author: Julian Daduica
