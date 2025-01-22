@@ -3,6 +3,7 @@
 Calculate word counts in a text file!
 
 Author: Julian Daduica
+Year: 2025
 
 ## Installation
 
